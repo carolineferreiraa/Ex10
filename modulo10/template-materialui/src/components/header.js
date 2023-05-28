@@ -24,7 +24,7 @@ function Header() {
               */}
             </IconButton>
             <Typography variant="h4" component="div" sx={{ flexGrow: 1}}>
-              Organizador
+              Organizador de Projeto
             </Typography>
           </Toolbar>
         </AppBar>
