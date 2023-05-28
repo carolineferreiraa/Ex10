@@ -23,8 +23,8 @@ function Header() {
               <MenuIcon />
               */}
             </IconButton>
-            <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Gerenciamento de Projetos
+            <Typography variant="h4" component="div" sx={{ flexGrow: 1}}>
+              Organizador
             </Typography>
           </Toolbar>
         </AppBar>
